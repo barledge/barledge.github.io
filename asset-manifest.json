@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c567651.css",
+    "main.js": "/static/js/main.f4abb579.js",
+    "static/js/453.20bb95b5.chunk.js": "/static/js/453.20bb95b5.chunk.js",
+    "static/media/siegeofdragonspear.png": "/static/media/siegeofdragonspear.8b0021ec870b86c5abee.png",
+    "static/media/attractionator.png": "/static/media/attractionator.6ecde9685c3eab5169db.png",
+    "static/media/goalzero.png": "/static/media/goalzero.bde55216ea14b41fe862.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark2.png": "/static/media/bg-dark2.53fff8178e65dee0457e.png",
+    "static/media/ironbrook.png": "/static/media/ironbrook.596dd9ac6d8f259ee769.png",
+    "static/media/evz.png": "/static/media/evz.18c861e485a3a96b0596.png",
+    "static/media/tnn.png": "/static/media/tnn.68766087e884c39f99a6.png",
+    "static/media/careit_app.png": "/static/media/careit_app.354d4408c1df617edc3c.png",
+    "static/media/beamdog_client.png": "/static/media/beamdog_client.606290d4848d203cec75.png",
+    "static/media/ben_arledge.jpg": "/static/media/ben_arledge.f5298c94eac8b76bd2f5.jpg",
+    "static/media/crystalglass.png": "/static/media/crystalglass.e5a06e58f6420938158a.png",
+    "static/media/careit_dash.png": "/static/media/careit_dash.20cf22c26be63469161d.png",
+    "index.html": "/index.html",
+    "main.7c567651.css.map": "/static/css/main.7c567651.css.map",
+    "main.f4abb579.js.map": "/static/js/main.f4abb579.js.map",
+    "453.20bb95b5.chunk.js.map": "/static/js/453.20bb95b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c567651.css",
+    "static/js/main.f4abb579.js"
+  ]
+}
